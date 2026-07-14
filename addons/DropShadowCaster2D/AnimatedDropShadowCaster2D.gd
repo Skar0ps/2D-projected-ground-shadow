@@ -4,8 +4,6 @@ extends DropShadow2D
 class_name AnimatedDropShadowCaster2D
 
 ## Draws an animated shadow.
-##
-## Currently only supports animation with frames based on an [AtlasTexture].
 
 ## [SpriteFrames] resource containing the animations of the shadow.
 @export var animation : SpriteFrames :
